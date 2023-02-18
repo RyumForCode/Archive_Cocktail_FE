@@ -3,7 +3,7 @@
 const StashSearch = () => {
     return (
         <div>
-            StashSearch, branch test.
+            StashSearch, branch test
         </div>
     );
 }
